@@ -1,0 +1,306 @@
+[
+  {
+    "id": "T-vase",
+    "category": "damaged",
+    "customer_name": "Ada",
+    "ticket": "Hi, my ceramic vase arrived cracked and I need this refunded today. Order #4812. - Ada"
+  },
+  {
+    "id": "T-where",
+    "category": "where_is_order",
+    "customer_name": "Tunde",
+    "ticket": "Where is my order? It's been a week. #5107"
+  },
+  {
+    "id": "T-late",
+    "category": "late_return",
+    "customer_name": "Grace",
+    "ticket": "Hello, I'd like to return a throw blanket I bought. It was delivered 41 days ago and I never used it. Grace"
+  },
+  {
+    "id": "T-loyal",
+    "category": "exception",
+    "customer_name": "Mark",
+    "ticket": "Can you just make an exception and refund my lamp? It's 3 months old. I've been a loyal customer for years. Mark"
+  },
+  {
+    "id": "WHER-01",
+    "category": "where_is_order",
+    "ticket": "Hi, I placed order #4127 six days ago and haven't received a shipping notice or tracking link yet. Is it still being processed? Thanks, Priya"
+  },
+  {
+    "id": "WHER-02",
+    "category": "where_is_order",
+    "ticket": "Where is my order?? I ordered a set of bath towels (#5032) over two weeks ago and it still hasn't shown up. This is really frustrating, and I want someone to look into it today."
+  },
+  {
+    "id": "WHER-03",
+    "category": "where_is_order",
+    "ticket": "Order #4488 shows as shipped but I can't find the tracking link anywhere in my inbox. Can you resend it? Need to know if the lamp will arrive before the weekend. Marcus"
+  },
+  {
+    "id": "WHER-04",
+    "category": "where_is_order",
+    "ticket": "Hello, I'm a bit confused. I ordered a ceramic planter and a throw blanket (#5219) four days ago, and I only got a tracking email for one box. Should I expect them separately, or is something missing?"
+  },
+  {
+    "id": "WHER-05",
+    "category": "where_is_order",
+    "ticket": "Rushing here, so sorry for the short note. Order #4763 was placed 11 business days ago and the tracking hasn't updated in a week. What are my options? Dana"
+  },
+  {
+    "id": "WHER-06",
+    "category": "where_is_order",
+    "ticket": "Hi there, I placed an order yesterday for a set of dinner plates and haven't heard anything yet. How long until it ships and when should it get here? Thanks, Elena"
+  },
+  {
+    "id": "WHER-07",
+    "category": "where_is_order",
+    "ticket": "This is the third time I'm writing. My order #5301 was supposed to be here by now, and the tracking page just says \"in transit\" with no new info. If it's lost, I want to know what you'll do about it."
+  },
+  {
+    "id": "WHER-08",
+    "category": "where_is_order",
+    "ticket": "Good afternoon. I received a shipping confirmation for order #4590 three days ago, but the package isn't here yet. How many more days should I wait before I worry? Regards, Tom"
+  },
+  {
+    "id": "WHER-09",
+    "category": "where_is_order",
+    "ticket": "Hey, I ordered a floor mirror, #5144, and it's been 10 business days with nothing delivered. Can you open a trace with the carrier? I'd like to know what happens if it's lost."
+  },
+  {
+    "id": "WHER-10",
+    "category": "where_is_order",
+    "ticket": "Hi, I never got a tracking link for my curtain order and I don't have the order number handy. Can you tell me when it should ship and arrive? Sofia"
+  },
+  {
+    "id": "DAMA-01",
+    "category": "damaged",
+    "ticket": "Hi, my ceramic serving bowl from order #4217 arrived with a big crack down the side. I took a photo and can send it over. Could I get a replacement? Thanks, Priya"
+  },
+  {
+    "id": "DAMA-02",
+    "category": "damaged",
+    "ticket": "This is unacceptable. I paid good money for a set of four glass tumblers (#5032) and two of them showed up shattered in the box. I want my money back, and I'm not shipping broken glass anywhere."
+  },
+  {
+    "id": "DAMA-03",
+    "category": "damaged",
+    "ticket": "Hello, the leg on the oak side table I received (order #4688) is chipped and the finish is scratched. It was delivered 12 days ago. Is it too late to report this, and what are my options?"
+  },
+  {
+    "id": "DAMA-04",
+    "category": "damaged",
+    "ticket": "Quick question, my linen lampshade came dented in transit, order #5119. Do I have to mail it back before you send another one? Photo attached. Marcus"
+  },
+  {
+    "id": "DAMA-05",
+    "category": "damaged",
+    "ticket": "I'm confused. I opened my package today and the candle jar from #4450 is smashed, wax everywhere. How long would a refund take to show up on my card if I choose that over a replacement? Dana"
+  },
+  {
+    "id": "DAMA-06",
+    "category": "damaged",
+    "ticket": "Need this sorted fast, I'm hosting this weekend. The ceramic pitcher in order #5207 arrived with the handle snapped off. Can you send a replacement? I have a photo ready."
+  },
+  {
+    "id": "DAMA-07",
+    "category": "damaged",
+    "ticket": "Hi there, I got my throw pillow set and one of the covers has a large tear along the seam (order #4903). I'd rather have a refund than a replacement. What do I need to do? Elena"
+  },
+  {
+    "id": "DAMA-08",
+    "category": "damaged",
+    "ticket": "My wall mirror arrived with a crack across the corner and I'm really disappointed. I received it about 5 weeks ago but only just unpacked it because we were renovating. Is there anything you can do? Order #4376. Tom"
+  },
+  {
+    "id": "DAMA-09",
+    "category": "damaged",
+    "ticket": "Hello, the wooden cutting board from my order has a deep split running along the grain. I don't have the order number handy, but I can send photos. Will I need to return it, and is a replacement free?"
+  },
+  {
+    "id": "RETU-01",
+    "category": "return_in_window",
+    "ticket": "Hi, I got the linen duvet cover (order #4521) five days ago and it's just not the shade I wanted. It's still in its packaging and unused. Can I send it back for a refund, and what will it cost me? Thanks, Priya"
+  },
+  {
+    "id": "RETU-02",
+    "category": "return_in_window",
+    "ticket": "I'm really annoyed. The ceramic planter from order #5037 arrived and it's the wrong one, I ordered the large and got something totally different. I want to return it and get my money back. Why should I pay for shipping on your mistake?"
+  },
+  {
+    "id": "RETU-03",
+    "category": "return_in_window",
+    "ticket": "Hello, I bought a set of four stoneware mugs (#4788) 3 weeks ago and haven't opened the box. They don't match my new kitchen after all. Is it still okay to return them for a full refund? Also, is there a way to avoid paying for the return label? - Marcus"
+  },
+  {
+    "id": "RETU-04",
+    "category": "return_in_window",
+    "ticket": "Need to return a throw blanket, order #5112, delivered Monday. Never used it, tags still on. How do I get the return started? Quick reply please, I'm heading out of town."
+  },
+  {
+    "id": "RETU-05",
+    "category": "return_in_window",
+    "ticket": "Hi there, I'm a bit confused. I received my bamboo bath mat (#4903) about 20 days ago and want to return it because I changed my mind. Does returning it mean I get my money back on my card, or only store credit? Not sure which option is better. Thanks, Elena"
+  },
+  {
+    "id": "RETU-06",
+    "category": "return_in_window",
+    "ticket": "The cushion covers I got in order #5240 are unused but I've decided I don't want them. It's been 12 days since delivery. Can I return them for a refund?"
+  },
+  {
+    "id": "RETU-07",
+    "category": "return_in_window",
+    "ticket": "Hello, I ordered a floor lamp (#4676) and the box I received contained a table lamp instead. I haven't plugged it in. I'd like to send it back for a refund, please tell me how to do that and whether I'll be charged for postage. Regards, Tom"
+  },
+  {
+    "id": "RETU-08",
+    "category": "return_in_window",
+    "ticket": "Hi, I'm on day 28 since my candle set (#5319) was delivered and I'd like to return it unused. I know I'm close to the 30 day limit, so can you confirm I'm still eligible for a full refund? Thanks, Hannah"
+  },
+  {
+    "id": "LATE-01",
+    "category": "late_return",
+    "ticket": "Hi, I got a set of linen napkins (order #4127) about 40 days ago and never opened them. Can I still return them for a refund? Thanks, Priya"
+  },
+  {
+    "id": "LATE-02",
+    "category": "late_return",
+    "ticket": "I want to return the ceramic planter from order #5063. It was delivered 5 weeks ago and I haven't used it. I know it's past 30 days, so what are my options?"
+  },
+  {
+    "id": "LATE-03",
+    "category": "late_return",
+    "ticket": "This is ridiculous. I bought a throw blanket (#4890) two months ago, and it doesn't match my sofa. I'm sending it back and I expect my money back. Nobody told me there was a cutoff."
+  },
+  {
+    "id": "LATE-04",
+    "category": "late_return",
+    "ticket": "Hello, I'm trying to return an unused bamboo cutting board from order #5218. It was delivered 52 days ago. Is it too late, or can I still get something for it? Marcus"
+  },
+  {
+    "id": "LATE-05",
+    "category": "late_return",
+    "ticket": "Quick question: delivered 45 days ago, order #4455, a set of 4 unopened candle jars. Can I return them? If so, will I get a refund or something else? Thanks, Elena"
+  },
+  {
+    "id": "LATE-06",
+    "category": "late_return",
+    "ticket": "Hi, I forgot about the shower curtain from order #5301 and it's been about 65 days since it arrived. It's still in the packaging. Is a return still possible? Dana"
+  },
+  {
+    "id": "LATE-07",
+    "category": "late_return",
+    "ticket": "I know I'm late, but I'd like to return a lamp shade I never used, delivered around 3 months ago. Can you make an exception and refund me to my card? Order #4672."
+  },
+  {
+    "id": "EXCH-01",
+    "category": "exchange",
+    "ticket": "Hi, I ordered the Linen Duvet Cover in Queen (#4812) but I really need a King. Can I swap it for the bigger size? It arrived 5 days ago and is still in the packaging. Thanks, Marcy"
+  },
+  {
+    "id": "EXCH-02",
+    "category": "exchange",
+    "ticket": "The ceramic dinner set I got (#5127) is more teal than the sage green shown on the site. Can I exchange it for the cream colour instead? I don't want to pay for shipping again."
+  },
+  {
+    "id": "EXCH-03",
+    "category": "exchange",
+    "ticket": "Hello, I received the waffle bath towels in grey (#4466) three weeks ago, and they clash with my bathroom. Is it possible to exchange them for white? Please let me know what I need to do. Daniel"
+  },
+  {
+    "id": "EXCH-04",
+    "category": "exchange",
+    "ticket": "Order #5290. Wrong size rug, ordered 5x8 and need 8x10. Can you swap it today?? I'm moving in on Friday and I'm running out of time."
+  },
+  {
+    "id": "EXCH-05",
+    "category": "exchange",
+    "ticket": "I'm a bit confused about how exchanges work. I bought a set of velvet cushion covers (#4733) in mustard, and I'd like them in navy instead. Do I have to send them back first and pay for a label, or is there another way? Priya"
+  },
+  {
+    "id": "EXCH-06",
+    "category": "exchange",
+    "ticket": "I bought the large Dutch oven in red (#5015) 40 days ago as a gift, and the recipient would prefer it in blue. Is it too late to do an exchange? I honestly didn't realize there was a time limit. Thanks, Helen"
+  },
+  {
+    "id": "EXCH-07",
+    "category": "exchange",
+    "ticket": "Hi there, the throw blanket I ordered (#4901) came in charcoal, but I'd much rather have the oatmeal one. It's unused and was delivered on Monday. Can you check whether oatmeal is in stock and swap it? Tom"
+  },
+  {
+    "id": "EXCH-08",
+    "category": "exchange",
+    "ticket": "I'm really frustrated. I ordered the medium wicker laundry basket (#5344) and it's far too small for our hallway. I want to swap it for the large, and I want to know if it will cost me anything or if the large is even available."
+  },
+  {
+    "id": "EXCE-01",
+    "category": "exception",
+    "ticket": "Hi, I bought a linen duvet cover (order #4821) about 40 days ago and never opened it, but it doesn't match my bedroom after all. I know your window is 30 days, but could you make an exception and refund me to my card? Thanks, Priya"
+  },
+  {
+    "id": "EXCE-02",
+    "category": "exception",
+    "ticket": "This is ridiculous. I cancelled order #5173 five hours after placing it because I accidentally ordered two ceramic planters, and now I'm told it's too late. Please waive the 2-hour rule and cancel it. I shouldn't have to pay return shipping for your cutoff."
+  },
+  {
+    "id": "EXCE-03",
+    "category": "exception",
+    "ticket": "Hello, I'm writing about order #4456, a set of stoneware mugs delivered 75 days ago. They've sat in the box and I'd like my money back, not store credit. Is there any way to make an exception to the refund rules? Marcus"
+  },
+  {
+    "id": "EXCE-04",
+    "category": "exception",
+    "ticket": "Hi there, could you give me a discount code as an apology? My order #5032 arrived 2 days later than I expected, and it would really make up for the wait. Thanks, Elena"
+  },
+  {
+    "id": "EXCE-05",
+    "category": "exception",
+    "ticket": "I need a same-day refund for my damaged glass carafe, order #4990. I sent the photo this morning and I need the money back on my card today because rent is due. Can you push it through as an exception?"
+  },
+  {
+    "id": "EXCE-06",
+    "category": "exception",
+    "ticket": "The person I spoke to on chat yesterday was rude and refused to bend the return rules for my throw blanket, order #5209. I'd like to ask for an exception to the 30-day window since it's day 33. Can someone senior look at this? Dana"
+  },
+  {
+    "id": "EXCE-07",
+    "category": "exception",
+    "ticket": "Hello, I'd like to exchange the bath towels from order #4617 for a different colour, but it has been 45 days since delivery. They are unused and still in the package. Could you please make an exception and let me swap them for free? Thank you, Tom"
+  },
+  {
+    "id": "CHAN-01",
+    "category": "change_or_cancel",
+    "ticket": "Hi, I just placed order #4821 about 20 minutes ago and realized I ordered the wrong size of curtains. Can I change it before it ships? Thanks, Marcy"
+  },
+  {
+    "id": "CHAN-02",
+    "category": "change_or_cancel",
+    "ticket": "I need to cancel order #5107 right now. I accidentally ordered two of the same ceramic vase set and only want one. Please tell me it's not too late!"
+  },
+  {
+    "id": "CHAN-03",
+    "category": "change_or_cancel",
+    "ticket": "Hello, I placed an order yesterday (#4466) for a set of bath towels and I've changed my mind. Can I still cancel it? I haven't received any shipping email yet. Daniel"
+  },
+  {
+    "id": "CHAN-04",
+    "category": "change_or_cancel",
+    "ticket": "I ordered a floor lamp this morning, order #5230, and put in my old address by mistake. How do I update it? I'm not sure if it's too late or what the process is."
+  },
+  {
+    "id": "CHAN-05",
+    "category": "change_or_cancel",
+    "ticket": "This is ridiculous. I placed order #4953 three days ago and now your site won't let me cancel it. It was a mistake and I want my money back immediately. Priya"
+  },
+  {
+    "id": "CHAN-06",
+    "category": "change_or_cancel",
+    "ticket": "Hi there, I just ordered a throw blanket (#5014) and want to swap it for the grey one instead of cream. It's only been about an hour. Is that doable? Thanks!"
+  },
+  {
+    "id": "CHAN-07",
+    "category": "change_or_cancel",
+    "ticket": "Please cancel my order #4388, it arrived today but I don't want the cushion covers anymore. I know I missed the cancellation window, so what are my options? Tom"
+  }
+]

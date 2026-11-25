@@ -1,0 +1,161 @@
+{
+  "mean": 0.854,
+  "rows": [
+    {
+      "id": "T-vase",
+      "category": "damaged",
+      "reply": "Hi Ada,\n\nI'm sorry your vase arrived cracked, and I know you wanted a refund today.\n\nDamaged items qualify for a full refund or a free replacement, and you don't need to send the vase back. I can't promise a same-day refund, but refunds reach the original payment method in 5 to 10 business days. To start, reply with a photo of the crack and let me know whether you'd like a refund or a replacement for order #4812. The photo needs to be sent within 30 days of delivery.\n\nWarmly,\nMaple & Co. Support",
+      "score": 0.875,
+      "parts": [
+        2,
+        2,
+        1,
+        2
+      ],
+      "feedback": "[E2 F2 P1 T2, 95 words] The reply is warm and accurate. It names Ada's cracked vase and her wish for a refund today, and every fact matches the policy. It runs to about 90 words in the body, or 95 with the sign-off, so it is not under 90. Cut the last sentence, \"The photo needs to be sent within 30 days of delivery.\" The 30-day window is a minor detail here, and dropping it brings the reply under the limit with a clearer single next step."
+    },
+    {
+      "id": "WHER-10",
+      "category": "where_is_order",
+      "reply": "Hi Sofia,\n\nNot getting a tracking link can leave you wondering where your curtains are. Orders ship within 2 business days of being placed, and standard delivery takes 3 to 7 business days after shipping. The tracking link is emailed when your order ships, so please check your inbox and spam folder. If it hasn't arrived 10 business days after you placed the order, reply here and we'll open a carrier trace.\n\nWarmly,\nMaple & Co. Support",
+      "score": 1.0,
+      "parts": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "feedback": "[E2 F2 P2 T2, 77 words] The reply is warm, uses \"Sofia\", and has one specific empathy line (\"can leave you wondering where your curtains are\"). It is about 80 words and uses only policy facts. To match the gold reply, add a next step for when the email isn't in spam, such as asking for the email address she ordered with, so support can look up her order without an order number. Keep it under 90 words."
+    },
+    {
+      "id": "EXCH-08",
+      "category": "exchange",
+      "reply": "Hi there,\n\nFinding a basket that's too small for your hallway is frustrating, and I'm sorry it didn't fit.\n\nA different size can be exchanged for free within 30 days of delivery, while stock lasts, so the large costs you nothing if it's still available. Replacements take 3 to 7 business days after shipping, and we can't promise a same-day swap. Reply here and I'll set up the exchange for order #5344. If you need it sooner, I'll pass the request to a team lead, who replies within 1 business day.\n\nWarmly,\nMaple & Co. Support",
+      "score": 0.75,
+      "parts": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "feedback": "[E2 F2 P1 T1, 96 words] The reply is warm and specific (\"Finding a basket that's too small for your hallway is frustrating\"), but it is about 100 words, over the 90-word limit, and includes extra material. Cut \"Replacements take 3 to 7 business days after shipping, and we can't promise a same-day swap\" and the team lead offer. The customer asked for neither, and the policy doesn't say exchanges ship on the standard delivery timeline or that a team lead can speed up an exchange. That makes it a stretch beyond the policy. Also ask for the delivery date, as the gold reply does, so the 30-day window can be checked, and say plainly that you can't confirm the large's stock from here instead of \"I'll set up the exchange.\""
+    },
+    {
+      "id": "WHER-08",
+      "category": "where_is_order",
+      "reply": "Hi Tom,\n\nWaiting for a package that hasn't turned up yet is stressful.\n\nStandard delivery takes 3 to 7 business days after shipping, so order #4590 may still arrive in the next few business days. Your tracking link in the shipping email shows its progress. If it hasn't arrived 10 business days after you placed the order, reply here and we'll open a carrier trace. If the carrier confirms it's lost, you can choose a free replacement or a full refund.\n\nWarmly,\nMaple & Co. Support",
+      "score": 1.0,
+      "parts": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "feedback": "[E2 F2 P2 T2, 86 words] The reply is strong. It has a specific empathy line (\"Waiting for a package that hasn't turned up yet is stressful\"), uses Tom's name, and stays under 90 words (about 75). Its facts match the policy: 3 to 7 business days, the tracking link, a trace at 10 business days, and a replacement or refund if the package is confirmed lost. No change is needed. If you want to refine it, you could say outright that Tom doesn't need to worry yet, which would answer his \"how many more days\" question more directly."
+    },
+    {
+      "id": "EXCH-03",
+      "category": "exchange",
+      "reply": "Hi Daniel,\n\nFinding that the grey towels clash with your bathroom is frustrating.\n\nYour order is within 30 days of delivery, so you can exchange them for white for free while stock lasts. Reply here confirming the same size and I'll set up the exchange. If white isn't available, you can return them unused for a full refund instead, though the return label costs $6.95 for a change of mind.\n\nWarmly,\nMaple & Co. Support",
+      "score": 0.875,
+      "parts": [
+        2,
+        2,
+        1,
+        2
+      ],
+      "feedback": "[E2 F2 P1 T2, 75 words] The reply is accurate and warm, but the last sentence (\"If white isn't available, you can return them unused for a full refund instead, though the return label costs $6.95...\") adds a second path the customer didn't ask about, which dilutes the one next step. Cut it, and say \"I'll check white is in stock\" rather than \"I'll set up the exchange\", which promises more than the policy allows because the exchange only works while stock lasts."
+    },
+    {
+      "id": "EXCE-05",
+      "category": "exception",
+      "reply": "Hi there,\n\nOpening a box to find a broken carafe is upsetting, especially with rent due today. I can't promise a same-day refund, but your damage report with photo qualifies. Reply here and choose a full refund or a free replacement. A refund reaches your original card in 5 to 10 business days. I've passed your same-day exception request to a team lead, who replies within 1 business day.\n\nWarmly,\nMaple & Co. Support",
+      "score": 1.0,
+      "parts": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "feedback": "[E2 F2 P2 T2, 74 words] The reply is warm and specific (\"Opening a box to find a broken carafe is upsetting, especially with rent due today\"). It is about 75 words, under the 90 limit, and gives the policy facts and next step. It stays faithful: it escalates the exception request to a team lead with the 1 business day reply time and invents nothing. One optional improvement is to say plainly that no exception can be made by support, and to mention that the carafe need not be returned, as the gold reply does."
+    },
+    {
+      "id": "LATE-04",
+      "category": "late_return",
+      "reply": "Hi Marcus,\n\nFinding a cutting board you don't need after 52 days is frustrating. Refunds are no longer possible at this point, but unused items can still be returned for store credit up to 60 days after delivery. That means you have 8 days left. Reply here and I'll set up your store-credit return with a free label. I've also passed your refund request to a team lead, who replies within 1 business day.\n\nWarmly,\nMaple & Co. Support",
+      "score": 0.25,
+      "parts": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "feedback": "[E1 F2 P1 T0, 79 words] The reply invents an action: \"I've also passed your refund request to a team lead, who replies within 1 business day.\" Marcus never asked for an exception, only whether he could still get something, and nothing was escalated, so cut this sentence. Also, \"free label\" for store credit is correct, but \"frustrating\" assumes a feeling he did not state, so use a plainer line such as \"I'm sorry the cutting board didn't work out.\""
+    },
+    {
+      "id": "RETU-08",
+      "category": "return_in_window",
+      "reply": "Hi Hannah,\n\nWanting to send back an unused candle set when the deadline is close can be stressful. You are still within the window. Unused items can be returned for a full refund within 30 days of delivery, so you have about 2 days left. Because this is a change of mind, the return label costs $6.95, or you can choose store credit with a free label. Reply here with your choice and I'll set up the return for order #5319 today.\n\nWarmly,\nMaple & Co. Support",
+      "score": 1.0,
+      "parts": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "feedback": "[E2 F2 P2 T2, 87 words] The reply is strong. It uses Hannah's name, gives one plain empathetic sentence, stays under 90 words (about 80), and states the policy fact and next step. Every fact comes from the ticket or the policy, and \"about 2 days left\" follows from day 28 of 30. Optionally, trim \"can be stressful\" to something more specific to her situation, such as \"Thanks for checking before the deadline.\""
+    },
+    {
+      "id": "DAMA-04",
+      "category": "damaged",
+      "reply": "Hi Marcus,\n\nA dented lampshade on arrival is frustrating, and I'm sorry it came that way.\n\nNo, you don't need to mail it back. Since the damage is reported with a photo, you can choose a free replacement or a full refund. A refund goes to your original payment method within 5 to 10 business days. Just reply here with which option you'd like, and I'll set it up.\n\nWarmly,\nMaple & Co. Support",
+      "score": 1.0,
+      "parts": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "feedback": "[E2 F2 P2 T2, 74 words] The reply is strong on all four criteria. It names the specific problem (\"A dented lampshade on arrival is frustrating\"), uses Marcus's first name, and answers his question directly in about 70 words. Every fact matches the policy. The one small improvement is to mention the order number #5119 and thank him for the photo, as the gold reply does."
+    },
+    {
+      "id": "T-where",
+      "category": "where_is_order",
+      "reply": "Hi there,\n\nNot knowing where your order is after a week of waiting is frustrating.\n\nOrder #5107 hasn't reached the 10-business-day mark yet, when we open a carrier trace. Orders ship within 2 business days and take 3 to 7 business days to arrive after shipping, so check the tracking link emailed when it shipped for its latest status. If it still hasn't arrived 10 business days after it was placed, reply here and we'll open a trace with the carrier. If the carrier confirms it's lost, you can choose a free replacement or a full refund.\n\nWarmly,\nMaple & Co. Support",
+      "score": 0.875,
+      "parts": [
+        2,
+        2,
+        1,
+        2
+      ],
+      "feedback": "[E2 F2 P1 T2, 102 words] The reply runs about 94 words in the body, over the 90-word limit. It also repeats the 10-business-day rule (\"hasn't reached the 10-business-day mark yet, when we open a carrier trace\", then again \"10 business days after it was placed\"). Cut the first mention and the extra \"If the carrier confirms it's lost, you can choose a free replacement or a full refund\" sentence, since the customer only needs the tracking link and the next step. Everything stated matches the policy and nothing is invented."
+    },
+    {
+      "id": "DAMA-07",
+      "category": "damaged",
+      "reply": "Hi Elena,\n\nA torn seam on a cover you've just received is frustrating, and I'm sorry it arrived that way.\n\nSince you'd like a refund, please reply with a clear photo of the tear, sent within 30 days of delivery. Once we have it, you'll receive a full refund to your original payment method, which takes 5 to 10 business days. You don't need to send the damaged cover back.\n\nWarmly,\nMaple & Co. Support",
+      "score": 1.0,
+      "parts": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "feedback": "[E2 F2 P2 T2, 75 words] The reply is strong and matches the gold style. It acknowledges the frustration in one specific sentence, uses \"Elena\", stays under 90 words (about 75), and gives the exact next step (a photo within 30 days). Every fact comes from the policy. The only small improvement would be to mention order #4903 and ask for the photo \"to this email\" so the step is fully unambiguous, but this is optional."
+    },
+    {
+      "id": "RETU-03",
+      "category": "return_in_window",
+      "reply": "Hi Marcus,\n\nIt's disappointing when a set doesn't suit your new kitchen, especially after you were looking forward to using them.\n\nUnused items can be returned for a full refund within 30 days of delivery. The return label costs $6.95, or you can choose store credit with a free label. If more than 30 days have passed since delivery, store credit is still available for up to 60 days after delivery. Reply here with your choice and I'll set up the return.\n\nWarmly,\nMaple & Co. Support",
+      "score": 0.625,
+      "parts": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "feedback": "[E1 F2 P1 T1, 87 words] The empathy line adds \"especially after you were looking forward to using them\", which is a guess about Marcus's feelings that he never stated, so cut it and keep \"It's disappointing when a set doesn't suit your new kitchen.\" The sentence \"If more than 30 days have passed since delivery, store credit is still available for up to 60 days\" is irrelevant, because he is at 3 weeks and within the window. Remove it, since it adds length, risks confusion, and leaves the reply near the 90-word limit. Also, \"I'll set up the return\" slightly overpromises, so use \"we'll send the next steps for order #4788\" and mention the order number."
+    }
+  ]
+}

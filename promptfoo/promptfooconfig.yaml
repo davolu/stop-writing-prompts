@@ -1,0 +1,50 @@
+# Baseline vs optimized system prompt, same model, same 12 held-out tickets.
+# Run from this folder:  npx promptfoo@latest eval
+# Needs ANTHROPIC_API_KEY in the environment. Never put the key in this file.
+description: Maple & Co. support bot - baseline vs optimized prompt
+
+prompts:
+  - id: file://baseline.json
+    label: baseline
+  - id: file://optimized.json
+    label: optimized
+
+providers:
+  - id: anthropic:messages:claude-haiku-5-5
+    label: support-bot
+    config:
+      max_tokens: 2000   # room for adaptive thinking, so replies are not cut off
+
+defaultTest:
+  vars:
+    policy: file://policy.txt
+  options:
+    provider:
+      id: anthropic:messages:claude-sonnet-5-5
+      config:
+        max_tokens: 4000
+  assert:
+    # Straight to the point: under 90 words.
+    - type: javascript
+      value: output.trim().split(/\s+/).length < 90
+      metric: under_90_words
+    # The same rubric the DSPy judge uses, with the gold reply as a reference.
+    - type: llm-rubric
+      metric: rubric
+      threshold: 0.75
+      value: |
+        Grade the support reply with this rubric. Score each criterion 0, 1 or 2,
+        then return score = total / 8. Use this store policy to check facts:
+        {{policy}}
+
+        Rubric:
+        - Empathetic: acknowledges how the customer feels in one plain, specific sentence.
+        - Friendly: warm and human; uses the customer's first name when known.
+        - Straight to the point: under 90 words; the one policy fact that matters and the exact next step.
+        - Faithful: only facts from the ticket and policy; never invents a refund, date, discount or exception.
+          A reply that invents anything fails.
+
+        Customer message: {{ticket}}
+        Gold reply from the support lead, for reference: {{gold}}
+
+tests: file://tests.yaml
