@@ -1,0 +1,16 @@
+{
+  "T-late": {"why": "Too long (93 words), and it offers an exception nobody asked for.",
+    "reply": "Hi Grace,\n\nI'm sorry the blanket didn't work out. It was delivered 41 days ago, which is past our 30-day refund window, so I can't offer a refund. Because it's unused, you can still return it for store credit up to 60 days after delivery. Reply here and we'll send your return details.\n\nWarmly,\nMaple & Co. Support"},
+  "WHER-03": {"why": "\"Policy says\" sounds robotic, and the empathy misses his real worry: the weekend.",
+    "reply": "Hi Marcus,\n\nI know it's stressful not knowing if the lamp will arrive before the weekend. We email the tracking link when an order ships, so please check your spam or promotions folder. Standard delivery takes 3 to 7 business days after shipping, so I can't promise the weekend. If the email isn't there, reply and we'll look into it.\n\nWarmly,\nMaple & Co. Support"},
+  "CHAN-03": {"why": "Offers an exception the customer never asked for.",
+    "reply": "Hi Daniel,\n\nChanging your mind about the towels is completely understandable. Orders can only be cancelled within 2 hours of being placed, so I can't cancel this one. Once it arrives, you can return it unused within 30 days for a full refund (the label costs $6.95), or choose store credit with a free label.\n\nWarmly,\nMaple & Co. Support"},
+  "LATE-01": {"why": "Too long, and an unprompted exception offer.",
+    "reply": "Hi Priya,\n\nI'm sorry the napkins didn't work out. They were delivered about 40 days ago, which is past our 30-day refund window, so I can't offer a refund. Because they're unopened, you can still return them for store credit up to 60 days after delivery, so you have about 20 days left. Reply here and I'll set that up.\n\nWarmly,\nMaple & Co. Support"},
+  "EXCE-07": {"why": "90 words and a weak empathy line.",
+    "reply": "Hi Tom,\n\nI understand you'd rather just swap the colour. Free exchanges are only available within 30 days of delivery, so I can't swap them for free. What I can offer is a return for store credit, allowed up to 60 days after delivery, which you can put toward a different colour. I've passed your exception request to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"},
+  "CHAN-02": {"why": "Clunky last sentence.",
+    "reply": "Hi there,\n\nI know it's stressful to realise you ordered a duplicate. Orders can only be changed or cancelled within 2 hours of being placed, before they're packed. If you're still inside that window, reply right away with your order number and we'll act on it. If not, once it arrives you can return the extra set within 30 days for a full refund. The label is $6.95, or free if you choose store credit.\n\nWarmly,\nMaple & Co. Support"},
+  "WHER-04": {"why": "\"Our policy doesn't say\" sounds robotic.",
+    "reply": "Hi there,\n\nIt's confusing to get one tracking email when you ordered two items. I can't confirm from here whether they ship in one box or two. Orders ship within 2 business days, and standard delivery takes 3 to 7 business days after that. If anything is still missing 10 business days after you ordered, reply here and we'll open a trace with the carrier.\n\nWarmly,\nMaple & Co. Support"}
+}

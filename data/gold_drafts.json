@@ -1,0 +1,366 @@
+[
+  {
+    "id": "T-vase",
+    "category": "damaged",
+    "customer_name": "Ada",
+    "ticket": "Hi, my ceramic vase arrived cracked and I need this refunded today. Order #4812. - Ada",
+    "gold_reply": "Hi Ada,\n\nI'm sorry your vase arrived cracked. Since it's damaged, you can choose a free replacement or a full refund, and you don't need to send it back. Please reply with a photo of the crack and tell us which you'd prefer. I can't promise a same-day refund, but refunds reach your original payment method within 5 to 10 business days.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "T-where",
+    "category": "where_is_order",
+    "customer_name": "Tunde",
+    "ticket": "Where is my order? It's been a week. #5107",
+    "gold_reply": "Hi there,\n\nWaiting a week without an update is stressful, and I'm sorry you're in that spot. Orders ship within 2 business days and then take 3 to 7 business days to arrive, so #5107 may still be on its way. Please check your email for the tracking link we sent when it shipped. If it hasn't arrived 10 business days after you ordered, reply here and we'll open a trace with the carrier.\n\nWarmly, Maple & Co. Support"
+  },
+  {
+    "id": "T-late",
+    "category": "late_return",
+    "customer_name": "Grace",
+    "ticket": "Hello, I'd like to return a throw blanket I bought. It was delivered 41 days ago and I never used it. Grace",
+    "gold_reply": "Hi Grace,\n\nThanks for getting in touch, and it's good to hear the blanket is still unused. Since it was delivered 41 days ago, it's past our 30-day refund window, so I can't offer a refund. Unused items can still be returned for store credit up to 60 days after delivery. Reply to confirm you'd like store credit and we'll send your return details. If you'd like an exception to the refund rule, I can pass it to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "T-loyal",
+    "category": "exception",
+    "customer_name": "Mark",
+    "ticket": "Can you just make an exception and refund my lamp? It's 3 months old. I've been a loyal customer for years. Mark",
+    "gold_reply": "Hi Mark,\n\nThank you for being with us for years, and I'm sorry the lamp isn't working out. Refunds are only possible within 30 days of delivery, and I can't change that rule. Unused items can be returned for store credit up to 60 days after delivery, which unfortunately has passed for a 3-month-old lamp. I've passed your request to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "WHER-01",
+    "category": "where_is_order",
+    "ticket": "Hi, I placed order #4127 six days ago and haven't received a shipping notice or tracking link yet. Is it still being processed? Thanks, Priya",
+    "gold_reply": "Hi Priya,\n\nI'm sorry the wait has left you without any tracking info. Orders ship within 2 business days, and a tracking link is emailed once they do, so after six days you should have one by now. Please check your spam folder for it. If nothing is there by 10 business days after you placed the order, reply here and we'll open a trace with the carrier.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "WHER-02",
+    "category": "where_is_order",
+    "ticket": "Where is my order?? I ordered a set of bath towels (#5032) over two weeks ago and it still hasn't shown up. This is really frustrating, and I want someone to look into it today.",
+    "gold_reply": "Hi there,\n\nI'm sorry your bath towels (#5032) still haven't arrived after two weeks, which is frustrating. Since it's been over 10 business days since you ordered, I'm opening a trace with the carrier now. If they confirm it's lost, you can choose a free replacement or a full refund. I can't promise a same-day outcome, but we'll update you as soon as the carrier responds. Please reply with anything useful, like a delivery notice.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "WHER-03",
+    "category": "where_is_order",
+    "ticket": "Order #4488 shows as shipped but I can't find the tracking link anywhere in my inbox. Can you resend it? Need to know if the lamp will arrive before the weekend. Marcus",
+    "gold_reply": "Hi Marcus,\n\nI know it's frustrating to wait on a lamp without a tracking link. Policy says the link is emailed when an order ships, so please check your spam or promotions folder for it. I can't promise a delivery date, but standard delivery takes 3 to 7 business days after shipping, so it may not arrive before the weekend. If you can't find the email, reply here and we'll look into it for you.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "WHER-04",
+    "category": "where_is_order",
+    "ticket": "Hello, I'm a bit confused. I ordered a ceramic planter and a throw blanket (#5219) four days ago, and I only got a tracking email for one box. Should I expect them separately, or is something missing?",
+    "gold_reply": "Hi there,\n\nIt's confusing to see only one tracking email when you ordered two items. Our policy doesn't say whether an order ships in one box or several, so I can't confirm that from here. Orders ship within 2 business days, and standard delivery takes 3 to 7 business days after that. If anything is still missing 10 business days after you placed the order, reply here and we'll open a trace with the carrier.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "WHER-05",
+    "category": "where_is_order",
+    "ticket": "Rushing here, so sorry for the short note. Order #4763 was placed 11 business days ago and the tracking hasn't updated in a week. What are my options? Dana",
+    "gold_reply": "Hi Dana,\n\nI'm sorry the tracking has stalled for a week, that's worrying. Since order #4763 is past 10 business days, we're opening a trace with the carrier now. If the carrier confirms it's lost, you can choose a free replacement or a full refund. Nothing more is needed from you, and we'll email you once we hear back.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "WHER-06",
+    "category": "where_is_order",
+    "ticket": "Hi there, I placed an order yesterday for a set of dinner plates and haven't heard anything yet. How long until it ships and when should it get here? Thanks, Elena",
+    "gold_reply": "Hi Elena,\n\nThanks for checking in, it's hard waiting without an update on a new order. Orders ship within 2 business days of being placed, and you'll get a tracking link by email as soon as yours goes out. Standard delivery then takes 3 to 7 business days. If it hasn't arrived 10 business days after you ordered, write back and we'll open a trace with the carrier.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "WHER-07",
+    "category": "where_is_order",
+    "ticket": "This is the third time I'm writing. My order #5301 was supposed to be here by now, and the tracking page just says \"in transit\" with no new info. If it's lost, I want to know what you'll do about it.",
+    "gold_reply": "Hello,\n\nWriting three times about a late order is frustrating, and I'm sorry you've had to chase this. If order #5301 hasn't arrived 10 business days after you placed it, we open a trace with the carrier. If the carrier confirms it's lost, we'll ship a free replacement or give you a full refund, whichever you prefer. Please reply with your order date, and I'll check whether it has reached that point and start the trace.\n\nWarmly, Maple & Co. Support"
+  },
+  {
+    "id": "WHER-08",
+    "category": "where_is_order",
+    "ticket": "Good afternoon. I received a shipping confirmation for order #4590 three days ago, but the package isn't here yet. How many more days should I wait before I worry? Regards, Tom",
+    "gold_reply": "Hi Tom,\n\nWaiting on a package that's already shipped is stressful, so I understand the worry. Standard delivery takes 3 to 7 business days after shipping, so yours may still arrive in the next few days. If it hasn't arrived 10 business days after you placed the order, reply here and we'll open a trace with the carrier. If it's confirmed lost, you can choose a free replacement or a full refund.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "WHER-09",
+    "category": "where_is_order",
+    "ticket": "Hey, I ordered a floor mirror, #5144, and it's been 10 business days with nothing delivered. Can you open a trace with the carrier? I'd like to know what happens if it's lost.",
+    "gold_reply": "Hi there,\n\nTen business days with no mirror is frustrating, especially for something that size. Since your order has hit that mark, I'm opening a trace with the carrier now. If the carrier confirms it's lost, we'll ship a free replacement or give you a full refund, whichever you prefer. You don't need to do anything right now, and we'll email you once we hear back.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "WHER-10",
+    "category": "where_is_order",
+    "ticket": "Hi, I never got a tracking link for my curtain order and I don't have the order number handy. Can you tell me when it should ship and arrive? Sofia",
+    "gold_reply": "Hi Sofia,\n\nIt's frustrating to wait on curtains without a tracking link. Orders ship within 2 business days, and the tracking link is emailed once the order ships. Standard delivery then takes 3 to 7 business days. Please check your spam folder for that email. If it isn't there, reply with the email address you ordered with and we'll look up your order. If it hasn't arrived 10 business days after you ordered, we'll open a carrier trace.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "DAMA-01",
+    "category": "damaged",
+    "ticket": "Hi, my ceramic serving bowl from order #4217 arrived with a big crack down the side. I took a photo and can send it over. Could I get a replacement? Thanks, Priya",
+    "gold_reply": "Hi Priya,\n\nI'm sorry your serving bowl arrived cracked, that's a disappointing thing to unpack. Since you're within 30 days of delivery, you can choose a free replacement or a full refund, and you don't need to send the broken bowl back. Please reply with your photo and tell us which you'd prefer, and we'll take it from there. Refunds reach your original payment method in 5 to 10 business days.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "DAMA-02",
+    "category": "damaged",
+    "ticket": "This is unacceptable. I paid good money for a set of four glass tumblers (#5032) and two of them showed up shattered in the box. I want my money back, and I'm not shipping broken glass anywhere.",
+    "gold_reply": "Hi there,\n\nI'm sorry two of your tumblers arrived shattered. Since you're within 30 days of delivery, you can choose a full refund or a free replacement, and you don't need to send the broken glass back. Please reply with a photo of the damage and order #5032, and tell us which you'd prefer. Refunds reach your original payment method in 5 to 10 business days.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "DAMA-03",
+    "category": "damaged",
+    "ticket": "Hello, the leg on the oak side table I received (order #4688) is chipped and the finish is scratched. It was delivered 12 days ago. Is it too late to report this, and what are my options?",
+    "gold_reply": "Hi there,\n\nI'm sorry the oak side table arrived with a chipped leg and a scratched finish. It's not too late: damage can be reported within 30 days of delivery with a photo. Please reply with a photo of the damage, and tell us whether you'd like a free replacement or a full refund. You don't need to send the table back. Refunds reach your original payment method in 5 to 10 business days.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "DAMA-04",
+    "category": "damaged",
+    "ticket": "Quick question, my linen lampshade came dented in transit, order #5119. Do I have to mail it back before you send another one? Photo attached. Marcus",
+    "gold_reply": "Hi Marcus,\n\nI'm sorry your lampshade arrived dented, and thanks for sending the photo. You don't need to mail it back. For order #5119, you can choose a free replacement or a full refund, and refunds reach your original payment method in 5 to 10 business days. Just reply and tell us which one you'd like, and we'll set it up.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "DAMA-05",
+    "category": "damaged",
+    "ticket": "I'm confused. I opened my package today and the candle jar from #4450 is smashed, wax everywhere. How long would a refund take to show up on my card if I choose that over a replacement? Dana",
+    "gold_reply": "Hi Dana,\n\nI'm so sorry your candle arrived smashed, that's a mess to open up to. Since it's damaged, you can choose a free replacement or a full refund, and you don't need to send the broken item back. A refund reaches your original card in 5 to 10 business days. To start, reply with a photo of the damage and tell us which option you'd like.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "DAMA-06",
+    "category": "damaged",
+    "ticket": "Need this sorted fast, I'm hosting this weekend. The ceramic pitcher in order #5207 arrived with the handle snapped off. Can you send a replacement? I have a photo ready.",
+    "gold_reply": "Hi there,\n\nI'm sorry the pitcher arrived with its handle snapped, especially with guests coming. Since it's damaged, you can choose a free replacement or a full refund, and you don't need to send the pitcher back. Please reply with your photo and I'll get your choice started. I can't promise a delivery date, but standard delivery takes 3 to 7 business days after shipping.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "DAMA-07",
+    "category": "damaged",
+    "ticket": "Hi there, I got my throw pillow set and one of the covers has a large tear along the seam (order #4903). I'd rather have a refund than a replacement. What do I need to do? Elena",
+    "gold_reply": "Hi Elena,\n\nI'm sorry the pillow cover arrived torn along the seam. Since it's damaged, you can choose a full refund, and you don't need to send anything back. Please reply to this email with a photo of the tear (order #4903) within 30 days of delivery, and we'll process your refund. It should reach your original payment method in 5 to 10 business days.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "DAMA-08",
+    "category": "damaged",
+    "ticket": "My wall mirror arrived with a crack across the corner and I'm really disappointed. I received it about 5 weeks ago but only just unpacked it because we were renovating. Is there anything you can do? Order #4376. Tom",
+    "gold_reply": "Hi Tom,\n\nI'm sorry the mirror arrived cracked, especially with a renovation already on your plate. Damage must be reported within 30 days of delivery, so I can't change that rule for a free replacement or refund. I can offer a return for store credit, which is available up to 60 days after delivery. I've passed your case to a team lead, who will reply within 1 business day. Please reply with a photo of the crack.\n\nWarmly, Maple & Co. Support"
+  },
+  {
+    "id": "DAMA-09",
+    "category": "damaged",
+    "ticket": "Hello, the wooden cutting board from my order has a deep split running along the grain. I don't have the order number handy, but I can send photos. Will I need to return it, and is a replacement free?",
+    "gold_reply": "Hi there,\n\nI'm sorry your cutting board arrived with a deep split. Damage reported within 30 days of delivery with a photo qualifies for a free replacement or a full refund, your choice, and you don't need to send the board back. Please reply with your photos and the email used for the order, since we don't have the order number, and tell us which option you prefer.\n\nWarmly, Maple & Co. Support"
+  },
+  {
+    "id": "RETU-01",
+    "category": "return_in_window",
+    "ticket": "Hi, I got the linen duvet cover (order #4521) five days ago and it's just not the shade I wanted. It's still in its packaging and unused. Can I send it back for a refund, and what will it cost me? Thanks, Priya",
+    "gold_reply": "Hi Priya,\n\nI'm sorry the shade isn't what you hoped for. Since it's unused and within 30 days of delivery, you can return it for a full refund. The return label costs $6.95, or you can choose store credit with a free label. You could also exchange it for a different colour for free, while stock lasts. Reply with your choice and I'll send the next steps.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "RETU-02",
+    "category": "return_in_window",
+    "ticket": "I'm really annoyed. The ceramic planter from order #5037 arrived and it's the wrong one, I ordered the large and got something totally different. I want to return it and get my money back. Why should I pay for shipping on your mistake?",
+    "gold_reply": "Hi there,\n\nI'm sorry the wrong planter arrived when you ordered the large; that's frustrating. You won't pay for shipping, since return shipping is free for wrong items. Reply with your order number #5037 and a photo of the item you received, and we'll send you the free return label. Once the unused item is returned within 30 days of delivery, you'll get a full refund.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "RETU-03",
+    "category": "return_in_window",
+    "ticket": "Hello, I bought a set of four stoneware mugs (#4788) 3 weeks ago and haven't opened the box. They don't match my new kitchen after all. Is it still okay to return them for a full refund? Also, is there a way to avoid paying for the return label? - Marcus",
+    "gold_reply": "Hi Marcus, it's a shame the mugs don't suit your new kitchen. Since they're unused and within 30 days of delivery, you can return them for a full refund. The return label costs $6.95, or you can choose store credit instead and get a free label. Just reply and tell us which you'd prefer, and we'll send the next steps for order #4788.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "RETU-04",
+    "category": "return_in_window",
+    "ticket": "Need to return a throw blanket, order #5112, delivered Monday. Never used it, tags still on. How do I get the return started? Quick reply please, I'm heading out of town.",
+    "gold_reply": "Hi there,\n\nThanks for getting in touch so quickly, and I hope your trip goes smoothly. Since the blanket is unused and was delivered Monday, you can return it within 30 days for a full refund. The return label costs $6.95, or you can choose store credit and get a free label. Reply with your choice and I'll send the label right away. Refunds reach your original payment method in 5 to 10 business days.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "RETU-05",
+    "category": "return_in_window",
+    "ticket": "Hi there, I'm a bit confused. I received my bamboo bath mat (#4903) about 20 days ago and want to return it because I changed my mind. Does returning it mean I get my money back on my card, or only store credit? Not sure which option is better. Thanks, Elena",
+    "gold_reply": "Hi Elena, it's easy to feel unsure about which return option to pick, so here's how they differ. Since your mat arrived 20 days ago, it's within the 30-day window, so you can return it unused for a full refund to your card with a $6.95 return label, or choose store credit with a free label. Reply and tell us which you'd like, and we'll send the right label.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "RETU-06",
+    "category": "return_in_window",
+    "ticket": "The cushion covers I got in order #5240 are unused but I've decided I don't want them. It's been 12 days since delivery. Can I return them for a refund?",
+    "gold_reply": "Hi there,\n\nIt's totally fine to change your mind about the cushion covers. Since they're unused and within 30 days of delivery, you can return them for a full refund. The return label costs $6.95, or you can choose store credit and get a free label. Reply with your choice and we'll send the label for order #5240.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "RETU-07",
+    "category": "return_in_window",
+    "ticket": "Hello, I ordered a floor lamp (#4676) and the box I received contained a table lamp instead. I haven't plugged it in. I'd like to send it back for a refund, please tell me how to do that and whether I'll be charged for postage. Regards, Tom",
+    "gold_reply": "Hi Tom,\n\nI'm sorry the box had a table lamp in it instead of your floor lamp. Since it's the wrong item, return shipping is free, and unused items get a full refund when returned within 30 days of delivery. Please reply with your order number (#4676) and a photo of the lamp in its box, and we'll email you a prepaid return label.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "RETU-08",
+    "category": "return_in_window",
+    "ticket": "Hi, I'm on day 28 since my candle set (#5319) was delivered and I'd like to return it unused. I know I'm close to the 30 day limit, so can you confirm I'm still eligible for a full refund? Thanks, Hannah",
+    "gold_reply": "Hi Hannah,\n\nThanks for checking before the deadline, since day 28 is cutting it close. Yes, unused items can be returned within 30 days of delivery for a full refund, so your candle set (#5319) still qualifies. The return label costs $6.95, or you can choose store credit with a free label. Reply with which option you prefer and we'll send the label today so you can ship it back in time.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "LATE-01",
+    "category": "late_return",
+    "ticket": "Hi, I got a set of linen napkins (order #4127) about 40 days ago and never opened them. Can I still return them for a refund? Thanks, Priya",
+    "gold_reply": "Hi Priya,\n\nIt's frustrating when something doesn't work out, even when the napkins are still unopened. Since your order was delivered about 40 days ago, it's past our 30-day refund window, so I can't offer a refund. Unused items can still be returned for store credit up to 60 days after delivery, so you have about 20 days left. If you'd like to do that, reply here and I'll set it up. If you'd like to ask for an exception, I can pass it to a team lead, who replies within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "LATE-02",
+    "category": "late_return",
+    "ticket": "I want to return the ceramic planter from order #5063. It was delivered 5 weeks ago and I haven't used it. I know it's past 30 days, so what are my options?",
+    "gold_reply": "Hi there,\n\nThanks for checking before sending it back, and I'm sorry the planter isn't working out. Since it was delivered 5 weeks ago, it's past the 30-day refund window, so we can't offer a refund. Unused items can still be returned for store credit up to 60 days after delivery. Just reply with your order number, #5063, and we'll set up your return for store credit.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "LATE-03",
+    "category": "late_return",
+    "ticket": "This is ridiculous. I bought a throw blanket (#4890) two months ago, and it doesn't match my sofa. I'm sending it back and I expect my money back. Nobody told me there was a cutoff.",
+    "gold_reply": "Hi there,\n\nI'm sorry the blanket doesn't match your sofa, and that the cutoff caught you off guard. Refunds are only possible within 30 days of delivery, so I can't change that rule for order #4890. Since it's unused, you can return it for store credit up to 60 days after delivery. I've passed your request for a refund exception to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "LATE-04",
+    "category": "late_return",
+    "ticket": "Hello, I'm trying to return an unused bamboo cutting board from order #5218. It was delivered 52 days ago. Is it too late, or can I still get something for it? Marcus",
+    "gold_reply": "Hi Marcus,\n\nI'm sorry the cutting board didn't work out, and it's good that you asked before the window closed. At 52 days after delivery it's past our 30-day refund window, so I can't offer a refund. Unused items can still be returned for store credit up to 60 days after delivery, so you have 8 days left. Reply here to start your return and I'll get it going.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "LATE-05",
+    "category": "late_return",
+    "ticket": "Quick question: delivered 45 days ago, order #4455, a set of 4 unopened candle jars. Can I return them? If so, will I get a refund or something else? Thanks, Elena",
+    "gold_reply": "Hi Elena,\n\nThanks for checking before sending anything back. Since your candles were delivered 45 days ago, they're past our 30-day refund window, so we can't offer a refund. Unused items can still be returned for store credit up to 60 days after delivery, and your unopened jars qualify. Reply here to confirm you'd like the store credit return for order #4455, and we'll take it from there.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "LATE-06",
+    "category": "late_return",
+    "ticket": "Hi, I forgot about the shower curtain from order #5301 and it's been about 65 days since it arrived. It's still in the packaging. Is a return still possible? Dana",
+    "gold_reply": "Hi Dana,\n\nIt's easy to lose track of an order, and I'm glad the curtain is still in its packaging. Unused items can be returned for store credit only up to 60 days after delivery, and at 65 days yours is past that window, so I can't change the rule or offer a return or refund. I've passed your request to a team lead, who will reply within 1 business day to see what else is possible.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "LATE-07",
+    "category": "late_return",
+    "ticket": "I know I'm late, but I'd like to return a lamp shade I never used, delivered around 3 months ago. Can you make an exception and refund me to my card? Order #4672.",
+    "gold_reply": "Hi there,\n\nI understand wanting to sort this out, and I'm sorry the timing didn't work. Refunds are only possible within 30 days of delivery, and store credit for unused items ends 60 days after delivery. Since your lamp shade arrived about 3 months ago, I can't change that rule or offer either option. I've passed your request on to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCH-01",
+    "category": "exchange",
+    "ticket": "Hi, I ordered the Linen Duvet Cover in Queen (#4812) but I really need a King. Can I swap it for the bigger size? It arrived 5 days ago and is still in the packaging. Thanks, Marcy",
+    "gold_reply": "Hi Marcy,\n\nIt's frustrating to get the wrong size when you were set on King. Good news: you're within 30 days of delivery, so a free exchange for a different size is allowed while stock lasts. Please reply with your order number (#4812) and confirm you'd like the King, and we'll check stock and set up the exchange for you.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCH-02",
+    "category": "exchange",
+    "ticket": "The ceramic dinner set I got (#5127) is more teal than the sage green shown on the site. Can I exchange it for the cream colour instead? I don't want to pay for shipping again.",
+    "gold_reply": "Hi there,\n\nIt's frustrating when a colour looks different in person than it did on the site. We offer free exchanges for a different colour within 30 days of delivery, while stock lasts, so swapping to cream costs you nothing extra. Please reply with your order number (#5127) and confirm you'd like cream, and we'll check stock and send you the next steps.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCH-03",
+    "category": "exchange",
+    "ticket": "Hello, I received the waffle bath towels in grey (#4466) three weeks ago, and they clash with my bathroom. Is it possible to exchange them for white? Please let me know what I need to do. Daniel",
+    "gold_reply": "Hi Daniel,\n\nI'm sorry the grey towels don't suit your bathroom. Since they arrived three weeks ago, you're within our 30-day window for a free exchange to a different colour, while stock lasts. Just reply with your order number (#4466) and confirm you'd like white, and we'll check that white is in stock and send you the next steps.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCH-04",
+    "category": "exchange",
+    "ticket": "Order #5290. Wrong size rug, ordered 5x8 and need 8x10. Can you swap it today?? I'm moving in on Friday and I'm running out of time.",
+    "gold_reply": "Hi there,\n\nI know a Friday move makes this stressful. We offer a free exchange for a different size within 30 days of delivery, while stock lasts, but I can't promise a same-day swap or a delivery date before Friday. Standard delivery takes 3 to 7 business days. If you'd like me to ask for a faster handling exception, I'll pass it to a team lead who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCH-05",
+    "category": "exchange",
+    "ticket": "I'm a bit confused about how exchanges work. I bought a set of velvet cushion covers (#4733) in mustard, and I'd like them in navy instead. Do I have to send them back first and pay for a label, or is there another way? Priya",
+    "gold_reply": "Hi Priya,\n\nIt's easy to get tangled up on exchanges, so here's the short version. A different colour is a free exchange within 30 days of delivery, while stock lasts, so navy is covered. The policy doesn't say whether you need to send the mustard set back first. Reply with your order number (#4733) and we'll confirm the exact steps for your exchange. You won't pay for a label.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCH-06",
+    "category": "exchange",
+    "ticket": "I bought the large Dutch oven in red (#5015) 40 days ago as a gift, and the recipient would prefer it in blue. Is it too late to do an exchange? I honestly didn't realize there was a time limit. Thanks, Helen",
+    "gold_reply": "Hi Helen, it's tough to find out about a time limit after picking out such a thoughtful gift. Free exchanges are only available within 30 days of delivery, so I can't change that for order #5015. If the Dutch oven is unused, you can return it for store credit up to 60 days after delivery. I've also passed your exchange request to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCH-07",
+    "category": "exchange",
+    "ticket": "Hi there, the throw blanket I ordered (#4901) came in charcoal, but I'd much rather have the oatmeal one. It's unused and was delivered on Monday. Can you check whether oatmeal is in stock and swap it? Tom",
+    "gold_reply": "Hi Tom,\n\nThanks for the details, it's frustrating when the colour isn't quite right. Since your blanket was delivered this week, you're covered by our free colour exchange within 30 days of delivery, while stock lasts. Please reply to confirm you'd like oatmeal for order #4901, and we'll check stock for you. I can't promise availability until we've checked.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCH-08",
+    "category": "exchange",
+    "ticket": "I'm really frustrated. I ordered the medium wicker laundry basket (#5344) and it's far too small for our hallway. I want to swap it for the large, and I want to know if it will cost me anything or if the large is even available.",
+    "gold_reply": "Hi there,\n\nI'm sorry the medium basket didn't fit your hallway. Exchanges for a different size are free within 30 days of delivery, while stock lasts, so the swap itself won't cost you anything. I can't confirm the large's availability from here, so please reply with your delivery date and we'll check stock and set up your exchange for order #5344.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCE-01",
+    "category": "exception",
+    "ticket": "Hi, I bought a linen duvet cover (order #4821) about 40 days ago and never opened it, but it doesn't match my bedroom after all. I know your window is 30 days, but could you make an exception and refund me to my card? Thanks, Priya",
+    "gold_reply": "Hi Priya,\n\nI'm sorry the duvet cover doesn't suit your bedroom after all. I can't change the 30-day refund rule, but because it's unused and within 60 days of delivery, you can return it for store credit. I've passed your exception request to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCE-02",
+    "category": "exception",
+    "ticket": "This is ridiculous. I cancelled order #5173 five hours after placing it because I accidentally ordered two ceramic planters, and now I'm told it's too late. Please waive the 2-hour rule and cancel it. I shouldn't have to pay return shipping for your cutoff.",
+    "gold_reply": "Hi there,\n\nI'm sorry the double order of planters caused this hassle. I can't waive the 2-hour cancellation rule, but once order #5173 arrives you can return unused items within 30 days for a full refund. The return label costs $6.95, or you can choose store credit with a free label. I've passed your waiver request to a team lead, who will reply within 1 business day.\n\nWarmly, Maple & Co. Support"
+  },
+  {
+    "id": "EXCE-03",
+    "category": "exception",
+    "ticket": "Hello, I'm writing about order #4456, a set of stoneware mugs delivered 75 days ago. They've sat in the box and I'd like my money back, not store credit. Is there any way to make an exception to the refund rules? Marcus",
+    "gold_reply": "Hi Marcus,\n\nI understand it's frustrating to want your money back on mugs you haven't used. Our policy doesn't allow refunds after 30 days, and store credit is only available up to 60 days after delivery, so I can't change that rule. I've passed your exception request to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCE-04",
+    "category": "exception",
+    "ticket": "Hi there, could you give me a discount code as an apology? My order #5032 arrived 2 days later than I expected, and it would really make up for the wait. Thanks, Elena",
+    "gold_reply": "Hi Elena,\n\nI'm sorry order #5032 arrived later than you expected, since waiting on a delivery is frustrating. I can't give discount codes or make exceptions to our policy, but I've passed your request to a team lead, who will reply within 1 business day. If anything is wrong with the order itself, send us a photo and we'll fix it.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCE-05",
+    "category": "exception",
+    "ticket": "I need a same-day refund for my damaged glass carafe, order #4990. I sent the photo this morning and I need the money back on my card today because rent is due. Can you push it through as an exception?",
+    "gold_reply": "Hi there, I'm sorry about your carafe arriving damaged, and I understand rent makes today feel urgent. I can't promise a same-day refund or make an exception, as refunds reach your card in 5 to 10 business days. Since we have your photo, you can choose a free replacement or a full refund, with no need to send the carafe back. Reply with your choice, and I'll pass your request to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCE-06",
+    "category": "exception",
+    "ticket": "The person I spoke to on chat yesterday was rude and refused to bend the return rules for my throw blanket, order #5209. I'd like to ask for an exception to the 30-day window since it's day 33. Can someone senior look at this? Dana",
+    "gold_reply": "Hi Dana,\n\nI'm sorry your chat yesterday left you feeling brushed off. I can't change the 30-day refund window, but at day 33 your unused blanket can still be returned for store credit until day 60. I've passed your exception request and your complaint about the chat to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "EXCE-07",
+    "category": "exception",
+    "ticket": "Hello, I'd like to exchange the bath towels from order #4617 for a different colour, but it has been 45 days since delivery. They are unused and still in the package. Could you please make an exception and let me swap them for free? Thank you, Tom",
+    "gold_reply": "Hi Tom,\n\nThanks for reaching out, and it's good to hear the towels are unused and still in their package. Free exchanges are only available within 30 days of delivery, so I can't change that rule or swap them for free. What I can offer is a return for store credit, which is allowed up to 60 days after delivery, and you can use that credit on a different colour. I've passed your request to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "CHAN-01",
+    "category": "change_or_cancel",
+    "ticket": "Hi, I just placed order #4821 about 20 minutes ago and realized I ordered the wrong size of curtains. Can I change it before it ships? Thanks, Marcy",
+    "gold_reply": "Hi Marcy,\n\nOrdering the wrong size is easy to do, and you're in good time. Orders can be changed or cancelled within 2 hours of being placed, before they're packed. Please reply right now with the size you want, and we'll update order #4821. If it gets packed first, you can use a free exchange for a different size within 30 days of delivery, while stock lasts.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "CHAN-02",
+    "category": "change_or_cancel",
+    "ticket": "I need to cancel order #5107 right now. I accidentally ordered two of the same ceramic vase set and only want one. Please tell me it's not too late!",
+    "gold_reply": "Hi there,\n\nI know it's stressful to realize you ordered a duplicate. Orders can only be changed or cancelled within 2 hours of being placed, before they're packed. If you're still inside that window, reply right away with your order number and we'll act on it. If it's past that, we can't cancel it, but once it arrives you can return the extra set for a full refund within 30 days. Return label is $6.95, or free with store credit.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "CHAN-03",
+    "category": "change_or_cancel",
+    "ticket": "Hello, I placed an order yesterday (#4466) for a set of bath towels and I've changed my mind. Can I still cancel it? I haven't received any shipping email yet. Daniel",
+    "gold_reply": "Hi Daniel,\n\nChanging your mind about the towels is completely understandable. Orders can only be cancelled within 2 hours of being placed, and since yours was placed yesterday, I can't cancel it. Once it arrives, you can return it unused within 30 days for a full refund (the label costs $6.95) or choose store credit with a free label. If you'd like an exception, I can pass this to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "CHAN-04",
+    "category": "change_or_cancel",
+    "ticket": "I ordered a floor lamp this morning, order #5230, and put in my old address by mistake. How do I update it? I'm not sure if it's too late or what the process is.",
+    "gold_reply": "Hi there,\n\nEntering an old address by mistake is easy to do, and I'd like to help you fix it quickly. An order can be changed within 2 hours of being placed, before it's packed. If you're still inside that window, reply right away with order #5230 and your correct address. If it's already past that, the order has to be returned once it arrives, and I can't change that rule.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "CHAN-05",
+    "category": "change_or_cancel",
+    "ticket": "This is ridiculous. I placed order #4953 three days ago and now your site won't let me cancel it. It was a mistake and I want my money back immediately. Priya",
+    "gold_reply": "Hi Priya,\n\nI'm sorry this order was a mistake and that the cancellation option has closed. Orders can only be cancelled within 2 hours of being placed, so I can't cancel it now. Once it arrives, you can return it unused within 30 days for a full refund. The label costs $6.95, or you can choose store credit with a free label. I've passed your request to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "CHAN-06",
+    "category": "change_or_cancel",
+    "ticket": "Hi there, I just ordered a throw blanket (#5014) and want to swap it for the grey one instead of cream. It's only been about an hour. Is that doable? Thanks!",
+    "gold_reply": "Hi there,\n\nThanks for checking so quickly, and a swap to grey sounds lovely. Since your order was placed about an hour ago, it can still be changed, because changes are allowed within 2 hours of ordering, before it's packed. Please reply right away with order #5014 and confirm you'd like grey instead of cream, so we can update it before the window closes.\n\nWarmly,\nMaple & Co. Support"
+  },
+  {
+    "id": "CHAN-07",
+    "category": "change_or_cancel",
+    "ticket": "Please cancel my order #4388, it arrived today but I don't want the cushion covers anymore. I know I missed the cancellation window, so what are my options? Tom",
+    "gold_reply": "Hi Tom,\n\nI'm sorry the cushion covers aren't what you wanted. Since your order has arrived, it can't be cancelled, but unused items can be returned within 30 days of delivery for a full refund. The return label costs $6.95, or you can choose store credit with a free label. Just reply and tell me which you prefer, and I'll send the return details.\n\nWarmly, Maple & Co. Support"
+  }
+]

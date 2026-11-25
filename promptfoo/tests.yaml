@@ -1,0 +1,48 @@
+- description: "T-vase"
+  vars:
+    ticket: "Hi, my ceramic vase arrived cracked and I need this refunded today. Order #4812. - Ada"
+    gold: "Hi Ada,\n\nI'm sorry your vase arrived cracked. Since it's damaged, you can choose a free replacement or a full refund, and you don't need to send it back. Please reply with a photo of the crack and tell us which you'd prefer. I can't promise a same-day refund, but refunds reach your original payment method within 5 to 10 business days.\n\nWarmly,\nMaple & Co. Support"
+- description: "WHER-10"
+  vars:
+    ticket: "Hi, I never got a tracking link for my curtain order and I don't have the order number handy. Can you tell me when it should ship and arrive? Sofia"
+    gold: "Hi Sofia,\n\nIt's frustrating to wait on curtains without a tracking link. Orders ship within 2 business days, and the tracking link is emailed once the order ships. Standard delivery then takes 3 to 7 business days. Please check your spam folder for that email. If it isn't there, reply with the email address you ordered with and we'll look up your order. If it hasn't arrived 10 business days after you ordered, we'll open a carrier trace.\n\nWarmly,\nMaple & Co. Support"
+- description: "EXCH-08"
+  vars:
+    ticket: "I'm really frustrated. I ordered the medium wicker laundry basket (#5344) and it's far too small for our hallway. I want to swap it for the large, and I want to know if it will cost me anything or if the large is even available."
+    gold: "Hi there,\n\nI'm sorry the medium basket didn't fit your hallway. Exchanges for a different size are free within 30 days of delivery, while stock lasts, so the swap itself won't cost you anything. I can't confirm the large's availability from here, so please reply with your delivery date and we'll check stock and set up your exchange for order #5344.\n\nWarmly,\nMaple & Co. Support"
+- description: "WHER-08"
+  vars:
+    ticket: "Good afternoon. I received a shipping confirmation for order #4590 three days ago, but the package isn't here yet. How many more days should I wait before I worry? Regards, Tom"
+    gold: "Hi Tom,\n\nWaiting on a package that's already shipped is stressful, so I understand the worry. Standard delivery takes 3 to 7 business days after shipping, so yours may still arrive in the next few days. If it hasn't arrived 10 business days after you placed the order, reply here and we'll open a trace with the carrier. If it's confirmed lost, you can choose a free replacement or a full refund.\n\nWarmly,\nMaple & Co. Support"
+- description: "EXCH-03"
+  vars:
+    ticket: "Hello, I received the waffle bath towels in grey (#4466) three weeks ago, and they clash with my bathroom. Is it possible to exchange them for white? Please let me know what I need to do. Daniel"
+    gold: "Hi Daniel,\n\nI'm sorry the grey towels don't suit your bathroom. Since they arrived three weeks ago, you're within our 30-day window for a free exchange to a different colour, while stock lasts. Just reply with your order number (#4466) and confirm you'd like white, and we'll check that white is in stock and send you the next steps.\n\nWarmly,\nMaple & Co. Support"
+- description: "EXCE-05"
+  vars:
+    ticket: "I need a same-day refund for my damaged glass carafe, order #4990. I sent the photo this morning and I need the money back on my card today because rent is due. Can you push it through as an exception?"
+    gold: "Hi there,\n\nI'm sorry about your carafe arriving damaged, and I understand rent makes today feel urgent. I can't promise a same-day refund or make an exception, as refunds reach your card in 5 to 10 business days. Since we have your photo, you can choose a free replacement or a full refund, with no need to send the carafe back. Reply with your choice, and I'll pass your request to a team lead, who will reply within 1 business day.\n\nWarmly,\nMaple & Co. Support"
+- description: "LATE-04"
+  vars:
+    ticket: "Hello, I'm trying to return an unused bamboo cutting board from order #5218. It was delivered 52 days ago. Is it too late, or can I still get something for it? Marcus"
+    gold: "Hi Marcus,\n\nI'm sorry the cutting board didn't work out, and it's good that you asked before the window closed. At 52 days after delivery it's past our 30-day refund window, so I can't offer a refund. Unused items can still be returned for store credit up to 60 days after delivery, so you have 8 days left. Reply here to start your return and I'll get it going.\n\nWarmly,\nMaple & Co. Support"
+- description: "RETU-08"
+  vars:
+    ticket: "Hi, I'm on day 28 since my candle set (#5319) was delivered and I'd like to return it unused. I know I'm close to the 30 day limit, so can you confirm I'm still eligible for a full refund? Thanks, Hannah"
+    gold: "Hi Hannah,\n\nThanks for checking before the deadline, since day 28 is cutting it close. Yes, unused items can be returned within 30 days of delivery for a full refund, so your candle set (#5319) still qualifies. The return label costs $6.95, or you can choose store credit with a free label. Reply with which option you prefer and we'll send the label today so you can ship it back in time.\n\nWarmly,\nMaple & Co. Support"
+- description: "DAMA-04"
+  vars:
+    ticket: "Quick question, my linen lampshade came dented in transit, order #5119. Do I have to mail it back before you send another one? Photo attached. Marcus"
+    gold: "Hi Marcus,\n\nI'm sorry your lampshade arrived dented, and thanks for sending the photo. You don't need to mail it back. For order #5119, you can choose a free replacement or a full refund, and refunds reach your original payment method in 5 to 10 business days. Just reply and tell us which one you'd like, and we'll set it up.\n\nWarmly,\nMaple & Co. Support"
+- description: "T-where"
+  vars:
+    ticket: "Where is my order? It's been a week. #5107"
+    gold: "Hi there,\n\nWaiting a week without an update is stressful, and I'm sorry you're in that spot. Orders ship within 2 business days and then take 3 to 7 business days to arrive, so #5107 may still be on its way. Please check your email for the tracking link we sent when it shipped. If it hasn't arrived 10 business days after you ordered, reply here and we'll open a trace with the carrier.\n\nWarmly,\nMaple & Co. Support"
+- description: "DAMA-07"
+  vars:
+    ticket: "Hi there, I got my throw pillow set and one of the covers has a large tear along the seam (order #4903). I'd rather have a refund than a replacement. What do I need to do? Elena"
+    gold: "Hi Elena,\n\nI'm sorry the pillow cover arrived torn along the seam. Since it's damaged, you can choose a full refund, and you don't need to send anything back. Please reply to this email with a photo of the tear (order #4903) within 30 days of delivery, and we'll process your refund. It should reach your original payment method in 5 to 10 business days.\n\nWarmly,\nMaple & Co. Support"
+- description: "RETU-03"
+  vars:
+    ticket: "Hello, I bought a set of four stoneware mugs (#4788) 3 weeks ago and haven't opened the box. They don't match my new kitchen after all. Is it still okay to return them for a full refund? Also, is there a way to avoid paying for the return label? - Marcus"
+    gold: "Hi Marcus,\n\nit's a shame the mugs don't suit your new kitchen. Since they're unused and within 30 days of delivery, you can return them for a full refund. The return label costs $6.95, or you can choose store credit instead and get a free label. Just reply and tell us which you'd prefer, and we'll send the next steps for order #4788.\n\nWarmly,\nMaple & Co. Support"

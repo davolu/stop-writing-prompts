@@ -1,0 +1,128 @@
+{
+  "0_setup_probes": {
+    "claude-haiku-5-5": {
+      "api_calls": 4,
+      "input_tokens": 1803,
+      "output_tokens": 997,
+      "reasoning_tokens": 0,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.0007
+    },
+    "claude-sonnet-5-5": {
+      "api_calls": 3,
+      "input_tokens": 3673,
+      "output_tokens": 1560,
+      "reasoning_tokens": 0,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.0229
+    }
+  },
+  "1_generate_and_draft": {
+    "claude-haiku-5-5": {
+      "api_calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.0
+    },
+    "claude-sonnet-5-5": {
+      "api_calls": 67,
+      "input_tokens": 73513,
+      "output_tokens": 13651,
+      "reasoning_tokens": 376,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.2835
+    }
+  },
+  "2_baseline_test": {
+    "claude-haiku-5-5": {
+      "api_calls": 10,
+      "input_tokens": 8336,
+      "output_tokens": 4331,
+      "reasoning_tokens": 1586,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.003
+    },
+    "claude-sonnet-5-5": {
+      "api_calls": 10,
+      "input_tokens": 18779,
+      "output_tokens": 6528,
+      "reasoning_tokens": 4018,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.1028
+    }
+  },
+  "3_gepa": {
+    "claude-haiku-5-5": {
+      "api_calls": 510,
+      "input_tokens": 1937087,
+      "output_tokens": 355349,
+      "reasoning_tokens": 294611,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.3714
+    },
+    "claude-sonnet-5-5": {
+      "api_calls": 426,
+      "input_tokens": 879937,
+      "output_tokens": 245258,
+      "reasoning_tokens": 50816,
+      "cached_input_tokens": 0,
+      "cost_usd": 4.2125
+    }
+  },
+  "4_optimized_test": {
+    "claude-haiku-5-5": {
+      "api_calls": 16,
+      "input_tokens": 53879,
+      "output_tokens": 10893,
+      "reasoning_tokens": 8528,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.0108
+    },
+    "claude-sonnet-5-5": {
+      "api_calls": 12,
+      "input_tokens": 21188,
+      "output_tokens": 4371,
+      "reasoning_tokens": 1666,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.0861
+    }
+  },
+  "5_promptfoo": {
+    "claude-haiku-5-5": {
+      "api_calls": 24,
+      "input_tokens": 44582,
+      "output_tokens": 17927,
+      "reasoning_tokens": 12898,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.0134
+    },
+    "claude-sonnet-5-5": {
+      "api_calls": 24,
+      "input_tokens": 33511,
+      "output_tokens": 21812,
+      "reasoning_tokens": 15931,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.2851
+    }
+  },
+  "6_notebook_run": {
+    "claude-haiku-5-5": {
+      "api_calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.0
+    },
+    "claude-sonnet-5-5": {
+      "api_calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "cached_input_tokens": 0,
+      "cost_usd": 0.0
+    }
+  }
+}
